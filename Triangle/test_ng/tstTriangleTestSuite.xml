@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TriangleSuite" parallel="false">
+    <test name="TriangleTest">
+        <classes>
+            <class name="tstCheckTriangle"/>
+            <class name="tstDetectTriangle"/>
+            <class name="tstCheckMessages"/>
+            <class name="tstGetSquare"/>
+        </classes>
+    </test>
+</suite>
